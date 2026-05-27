@@ -92,16 +92,6 @@ Infraestructura como código: multi-entorno, replicas, balanceador de carga y mo
 App web con BD y caché desplegada en entornos `prod` y `dev` con Docker.
 `JavaScript` `Docker`
 
----
-
-## 📊 Estadísticas
-
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=CloseCh&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CloseCh&layout=compact&theme=github_dark&hide_border=true&langs_count=8" />
-</p>
-
----
 
 <p align="center">
   <em>¿Tienes un proyecto interesante o quieres colaborar? <a href="https://www.linkedin.com/in/weiyu-chen-dev/">Hablemos en LinkedIn</a>.</em>
